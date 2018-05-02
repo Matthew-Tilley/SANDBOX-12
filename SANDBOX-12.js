@@ -14,6 +14,8 @@ var numColors = colors.length;
 console.log(numColors);
 
 
-var el = document.getElementById("colors");
+var el = colors;
 
 el.textContent = "colors[2];"
+
+console.log(el);
