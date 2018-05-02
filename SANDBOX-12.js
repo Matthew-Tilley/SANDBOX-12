@@ -1,5 +1,17 @@
 /* PRACTICE FILE FOR FAVASCRIPT & JQUERY BY JON DUCKETT */
 
+
+/* PG# 78 CONCATENATION */
+
+var a = "this";
+
+var b = "that";
+
+console.log(a + " " + b);
+
+
+
+
 /* PG# 73 ARRAYS */
 
 /*var colors = ["white", "black", "custom"];
