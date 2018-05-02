@@ -13,4 +13,7 @@ var numColors = colors.length;
 
 console.log(numColors);
 
-console.log("LKAJSDLKJASDLKJASLKJSDLKSADJ");
+
+var el = document.getElementById("colors");
+
+el.textContent = "colors[2];"
