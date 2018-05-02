@@ -1,7 +1,10 @@
 /* PRACTICE FILE FOR FAVASCRIPT & JQUERY BY JON DUCKETT */
 
 
-
+function calculate()
+{
+    
+};
 
 
 
@@ -23,7 +26,6 @@ console.log(a + " " + b + " your name.");*/
 var b = "that";
 
 console.log(a + " " + b);*/
-
 
 
 
