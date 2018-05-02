@@ -3,11 +3,11 @@
 
 /* PG# 78 CONCATENATION */
 
-var a = "this";
+/*var a = "this";
 
 var b = "that";
 
-console.log(a + " " + b);
+console.log(a + " " + b);*/
 
 
 
