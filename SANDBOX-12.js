@@ -1,8 +1,6 @@
 /* PRACTICE FILE FOR FAVASCRIPT & JQUERY BY JON DUCKETT */
 
-function clicked()
-{
-    var info = document.getElementById(data).value();
+/* PG# 73 ARRAYS */
 
-   console.log(info);
-};
+var colors = ["white", "black", "custom"];
+
