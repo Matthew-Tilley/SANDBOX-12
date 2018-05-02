@@ -3,7 +3,7 @@
 
 function calculate()
 {
-    
+    console.log("LKJASDLKJDAS");
 };
 
 
