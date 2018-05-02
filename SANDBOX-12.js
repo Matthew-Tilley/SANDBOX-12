@@ -8,3 +8,7 @@ colors[1] = "orange";
 
 console.log(colors);
 console.log(colors[1]);
+
+var numColors = colors.length;
+
+console.log(numColors);
