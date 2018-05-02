@@ -2,7 +2,7 @@
 
 /* PG# 73 ARRAYS */
 
-var colors = ["white", "black", "custom"];
+/*var colors = ["white", "black", "custom"];
 
 colors[1] = "orange";
 
@@ -18,4 +18,4 @@ var el = colors;
 
 el.textContent = "colors[2];"
 
-console.log(el);
+console.log(el);*/
