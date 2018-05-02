@@ -4,4 +4,3 @@
 
 var colors = ["white", "black", "custom"];
 
-console.log(colors[0]);
