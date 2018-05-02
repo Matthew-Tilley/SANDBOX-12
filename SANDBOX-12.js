@@ -2,7 +2,7 @@
 
 function clicked()
 {
-    var info = document.getElementById("data");
+    var info = document.getElementById(data).value();
 
-    console.log(info);
+   console.log(info);
 };
