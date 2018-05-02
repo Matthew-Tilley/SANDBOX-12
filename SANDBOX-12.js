@@ -1,6 +1,18 @@
 /* PRACTICE FILE FOR FAVASCRIPT & JQUERY BY JON DUCKETT */
 
 
+
+/* PG# 79 MORE CONCATENATION */
+
+var a = "Hello";
+
+var b = "there";
+
+console.log(a + " " + b + " your name.");
+
+
+
+
 /* PG# 78 CONCATENATION */
 
 /*var a = "this";
