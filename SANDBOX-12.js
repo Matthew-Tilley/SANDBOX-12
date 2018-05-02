@@ -4,11 +4,11 @@
 
 /* PG# 79 MORE CONCATENATION */
 
-var a = "Hello";
+/*var a = "Hello";
 
 var b = "there";
 
-console.log(a + " " + b + " your name.");
+console.log(a + " " + b + " your name.");*/
 
 
 
