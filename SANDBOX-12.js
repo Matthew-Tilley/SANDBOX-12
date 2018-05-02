@@ -12,3 +12,5 @@ console.log(colors[1]);
 var numColors = colors.length;
 
 console.log(numColors);
+
+console.log("LKAJSDLKJASDLKJASLKJSDLKSADJ");
