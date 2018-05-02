@@ -4,3 +4,7 @@
 
 var colors = ["white", "black", "custom"];
 
+colors[1] = "orange";
+
+console.log(colors);
+console.log(colors[1]);
