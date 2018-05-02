@@ -2,5 +2,7 @@
 
 function clicked()
 {
-    console.log("KJASDFKJHSDA");
+    var info = document.getElementById("data");
+
+    console.log(info);
 };
