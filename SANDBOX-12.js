@@ -5,7 +5,10 @@
 
 var a; 
 
+a = 5;
+
 console.log(a);
+
 
 
 /*2.3 Requesting input
