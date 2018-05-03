@@ -7,7 +7,7 @@ var a;
 
 a = 5;
 
-a = null;
+a = undefined;
 
 console.log(a);
 
