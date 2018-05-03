@@ -1,11 +1,11 @@
 /* LYNDA.COM - PROGRAMMING FOUNDATIONS WITH SIMON ALLARDICE */
 
 
-/*2.3 Requesting input*/
+/*2.3 Requesting input
 
 var name = prompt("Enter your name: ");
 
-alert("Hello " + name);
+alert("Hello " + name);*/
 
 
 
