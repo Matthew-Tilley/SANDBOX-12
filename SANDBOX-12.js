@@ -7,6 +7,8 @@ var a;
 
 a = 5;
 
+a = null;
+
 console.log(a);
 
 
