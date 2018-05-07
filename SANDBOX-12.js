@@ -7,8 +7,10 @@ var a = "blah ";
 var b = "flurp";
 
 
-console.log(a.endsWith("lah "));
 
+console.log(a.startsWith("bl"));
+
+/*console.log(a.endsWith("lah "));*/
 
 /*var c = a.endsWith("q");
 
