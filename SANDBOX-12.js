@@ -7,7 +7,7 @@ var a = "blah ";
 var b = "flurp";
 
 
-console.log(a.endsWith("q"));
+console.log(a.endsWith(" "));
 
 /*console.log(a.concat(b));*/
 
