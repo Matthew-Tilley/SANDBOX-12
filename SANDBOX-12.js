@@ -7,9 +7,12 @@ var a = "blah ";
 var b = "flurp";
 
 
-var c = a.endsWith("q");
+console.log(a.endsWith("lah "));
 
-console.log(c);
+
+/*var c = a.endsWith("q");
+
+console.log(c);*/
 
 
 /*console.log(a.endsWith(" "));*/
