@@ -6,6 +6,9 @@ var a = "blah ";
 
 var b = "flurp";
 
+
+console.log(b.match(/urp/));
+
 /*console.log(a.indexOf("la"));*/
 
 /*console.log(a.includes("la"));*/
