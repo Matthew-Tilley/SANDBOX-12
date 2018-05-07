@@ -2,4 +2,7 @@
 
 let a = "BLAH";
 
-console.log(a.charCodeAt());
+for ( i = 0; i < a.length; i++ )
+    {
+        console.log(a.charCodeAt(i));
+    }
