@@ -6,9 +6,9 @@ var a = "blah ";
 
 var b = "flurp";
 
+console.log(String.fromCharCode(114));
 
-
-console.log(a.startsWith("bl"));
+/*console.log(a.startsWith("bl"));*/
 
 /*console.log(a.endsWith("lah "));*/
 
