@@ -6,7 +6,10 @@ var a = "blah ";
 
 var b = "flurp";
 
-console.log(String.fromCharCode(114));
+
+console.log(a.includes("la"));
+
+/*console.log(String.fromCharCode(114));*/
 
 /*console.log(a.startsWith("bl"));*/
 
