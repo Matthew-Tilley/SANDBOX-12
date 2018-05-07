@@ -6,8 +6,12 @@ var a = "blah ";
 
 var b = "flurp";
 
+var c = "LKJLKJASnslkjdflkj987324";
 
-console.log(b.match(/urp/));
+
+console.log(c.match(/987324/));
+
+/*console.log(b.match(/urp/));*/
 
 /*console.log(a.indexOf("la"));*/
 
