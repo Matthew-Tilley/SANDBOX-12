@@ -2,9 +2,11 @@
 
 
 
-var a = "blah blah";
+var a = "blah";
 
-console.log(a.charAt(1));
+/*console.log(a.charCodeAt(1));*/
+
+/*console.log(a.charAt(1));*/
 
 
 
