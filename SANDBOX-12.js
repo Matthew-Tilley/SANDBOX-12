@@ -6,8 +6,9 @@ var a = "blah ";
 
 var b = "flurp";
 
+/*console.log(a.indexOf("la"));*/
 
-console.log(a.includes("la"));
+/*console.log(a.includes("la"));*/
 
 /*console.log(String.fromCharCode(114));*/
 
