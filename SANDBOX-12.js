@@ -1,26 +1,5 @@
-/* LYNDA.COM - PROGRAMMING FOUNDATIONS WITH SIMON ALLARDICE */
+/*GENERAL PRACTICE*/
 
+let a = "BLAH";
 
-/* 3.3 Working with numbers */
-
-var a; 
-
-a = 5;
-
-a;
-
-console.log(a);
-
-
-
-/*2.3 Requesting input
-
-var name = prompt("Enter your name: ");
-
-alert("Hello " + name);*/
-
-
-
-/* 2.2 Creating your first program in JavaScript 
-
-alert("Hello World!");*/
+console.log(a.charCodeAt());
