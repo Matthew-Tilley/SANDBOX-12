@@ -9,7 +9,7 @@ var b = "flurp";
 var c = "LKJLKJASnslkjdflkj987324";
 
 
-console.log(c.match(/987324/));
+/*console.log(c.match(/987324/));*/
 
 /*console.log(b.match(/urp/));*/
 
